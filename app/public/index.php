@@ -1,4 +1,5 @@
 <?php
 
 
-echo "Hello World!!This is my PHP File";
+echo "Hello Wanja!!This is my PHP File";
+echo"i love php";
